@@ -171,5 +171,4 @@ Refer to the comprehensive guide: [FAIR_Monte_Carlo_Guide.md](FAIR_Monte_Carlo_G
 ---
 
 **Version**: 1.0  
-**For**: BARE Cybersecurity vCISO engagements  
 **Created**: November 2025
