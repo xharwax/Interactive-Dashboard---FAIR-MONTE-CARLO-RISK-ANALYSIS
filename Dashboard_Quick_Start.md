@@ -339,4 +339,4 @@ Enjoy your new interactive risk analysis tool! 🛡️
 
 **Questions?** Check the main see this Wiki article. [FAIR_Monte_Carlo_Guide.md](https://github.com/xharwax/Interactive-Dashboard---FAIR-MONTE-CARLO-RISK-ANALYSIS/blob/main/FAIR_Monte_Carlo_Guide.md) for methodology details.
 
-**Need help with a specific scenario?** Refer to [FAIR_Parameter_Reference.md](https://github.com/xharwax/Interactive-Dashboard---FAIR-MONTE-CARLO-RISK-ANALYSIS/blob/main/FAIR_Parameter_Reference.md)for industry benchmarks.
+**Need help with a specific scenario?** Refer to [FAIR_Parameter_Reference.md](https://github.com/xharwax/Interactive-Dashboard---FAIR-MONTE-CARLO-RISK-ANALYSIS/blob/main/FAIR_Parameter_Reference.md) for industry benchmarks.
