@@ -672,7 +672,7 @@ st.markdown("""
     <div style='text-align: center; color: #666; padding: 2rem 0;'>
         <p><strong>FAIR Monte Carlo Risk Analysis Dashboard</strong></p>
                 <p>Créé par 
-        <a href="https://www.linkedin.com/in/theo-debuire/" target="_blank" style="color: #4E79A7; text-decoration: underline;">
+        <a href="https://nxgencyber.fr/" target="_blank" style="color: #4E79A7; text-decoration: underline;">
         Theo DEBUIRE & nxgencyber
         </a> 
     | Version 1.0.0
