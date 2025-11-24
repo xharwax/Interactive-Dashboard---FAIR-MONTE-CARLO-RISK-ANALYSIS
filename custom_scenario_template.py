@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-FAIR Risk Analysis Template for BARE Cybersecurity Clients
+FAIR Risk Analysis Template for Cybersecurity Clients
 
 Use this template to quickly set up custom risk scenarios for your vCISO engagements.
 Simply fill in the parameters based on client interviews and industry data.
